@@ -4,7 +4,7 @@ const libroFavorito = {
     titulo: "Un mundo feliz",
     autor: "Aldous Huxley",
     fecha: 1932,
-    comprar: "https://www.cuspide.com/",
+    url: "https://www.cuspide.com/",
 };
 
 const lista = ["Natalia", 40, true, fechaNac, libroFavorito];
